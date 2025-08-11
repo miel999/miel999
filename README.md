@@ -1,4 +1,4 @@
-# Oi, eu sou o Miel!
+# Oi, eu sou o Riven
 ***`Desenvolvedor Backend Iniciante`***
 - Em constante aprendizado 📖
 - Buscando fazer da programação uma área para minha carreira 🔑
